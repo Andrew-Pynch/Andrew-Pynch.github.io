@@ -1,7 +1,8 @@
 # The people doing the real work
 
+<!-- prettier-ignore -->
 1. TOC
-   {:toc}
+{:toc}
 
 I often find myself frustrated by the lack of innovation coming out of certain
 sectors of the technology industry. Amidst countless failed promises from
