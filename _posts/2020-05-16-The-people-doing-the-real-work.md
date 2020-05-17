@@ -10,9 +10,8 @@ silicon valley startups whose valuations skyrocket despite having produce little
 to no value, I often begin to feel gloomy about the prospects of of truly useful
 innovations. It is when I reach these figurative low points that I go back to the
 people who never fail to inspire me. These are the people who are doing the real
-work. The people who constructed the infrastructure and insane advancements that
-society continues to reap. This is an appreciation post for those individuals,
-and a short discussion on the impact they have had on my life.
+work. The people who constructed the infrastructure that
+society continues to reap the benefits of. This is an appreciation post for those individuals and a short discussion on the impact they have had on my life.
 
 ## [Gwynne Shotwell](https://en.wikipedia.org/wiki/Gwynne_Shotwell)
 
@@ -32,13 +31,13 @@ number of contributions Jim has made to his field.
 Jim is a stern believer that despite all the hoorah in the media, Moores law is
 in fact not dead, but chugging along as expected due to hard work from individuals
 like himself. He has held jobs at almost all of the major chip manufacturers and
-played a critical part in developers the inference ASIC present in all Tesla's
+played a critical part in developing the inference ASIC present in all Tesla's
 with V.3 autonomy hardware.
 
 Jim restores my hope that true innovation is still alive in transistor technology
 and that there still exists engineers willing to solve hard problems. Not the type
 of hard problem that involves figuring out how to use Deep Learning to get Facebook
-users to click on more ads.
+users to click on more ads :eyes:
 
 ## [Chris Lattner](https://www.youtube.com/watch?v=yCd3CzGSte8)
 
