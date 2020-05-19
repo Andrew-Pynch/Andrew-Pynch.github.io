@@ -23,4 +23,11 @@ Although scalary only has a single class for doing some useful data collection s
 
 Regardless of how useful this library turns out to be to anyone, it was fun to learn how to publish my own package. I am looking forward to building more cool stuff like this in the future :-)
 
-Cheers!
+# Scalary Package
+## pip
+```python
+pip install scalary
+```
+## Repo Link
+I am working on getting a docs page up and running soon with sphinx. For now, README.md in the repo as the best info on how to use some of the stuff currently in the package
+### [Github Repo](https://github.com/Andrew-Pynch/scalary)
