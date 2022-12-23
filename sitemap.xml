@@ -2,17 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://andrew-pynch.github.io/</loc>
-    <lastmod>2022-12-23T12:46:04-06:00</lastmod>
+    <loc>https://andrew-pynch.github.io/tags/covered-in-coconut-oil/</loc>
+    <lastmod>2022-12-23T17:18:32-06:00</lastmod>
+  </url><url>
+    <loc>https://andrew-pynch.github.io/tags/developer-experience/</loc>
+    <lastmod>2022-12-23T17:18:32-06:00</lastmod>
+  </url><url>
+    <loc>https://andrew-pynch.github.io/tags/neovim/</loc>
+    <lastmod>2022-12-23T17:18:32-06:00</lastmod>
   </url><url>
     <loc>https://andrew-pynch.github.io/posts/</loc>
-    <lastmod>2022-12-23T12:46:04-06:00</lastmod>
-  </url><url>
-    <loc>https://andrew-pynch.github.io/posts/test/</loc>
-    <lastmod>2022-12-23T12:46:04-06:00</lastmod>
-  </url><url>
-    <loc>https://andrew-pynch.github.io/categories/</loc>
+    <lastmod>2022-12-23T17:18:32-06:00</lastmod>
   </url><url>
     <loc>https://andrew-pynch.github.io/tags/</loc>
+    <lastmod>2022-12-23T17:18:32-06:00</lastmod>
+  </url><url>
+    <loc>https://andrew-pynch.github.io/</loc>
+    <lastmod>2022-12-23T17:18:32-06:00</lastmod>
+  </url><url>
+    <loc>https://andrew-pynch.github.io/tags/vim/</loc>
+    <lastmod>2022-12-23T17:18:32-06:00</lastmod>
+  </url><url>
+    <loc>https://andrew-pynch.github.io/posts/you-should-learn-vim/</loc>
+    <lastmod>2022-12-23T17:18:32-06:00</lastmod>
+  </url><url>
+    <loc>https://andrew-pynch.github.io/about/</loc>
+    <lastmod>2022-12-23T17:11:11-06:00</lastmod>
+  </url><url>
+    <loc>https://andrew-pynch.github.io/categories/</loc>
   </url>
 </urlset>
